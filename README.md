@@ -188,13 +188,6 @@ This project is developed for educational and learning purposes.
 
 ---
 
-## 👨‍💻 Author
 
-**Your Name**
-
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
-
----
 
 ⭐ If you found this project useful, don't forget to star the repository!
